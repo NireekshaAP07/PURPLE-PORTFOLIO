@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your creative journey with a cozy, responsive portfolio for UI/UX designers and frontend developers, featuring engaging animations and personal touches.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
